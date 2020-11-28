@@ -1,1 +1,1 @@
-"new file-Version1 -feature" 
+"new file-Version1 -feature--squash merge" 
