@@ -1,1 +1,1 @@
-"My File B Version 1" 
+"My File B Version 1--Squash merge example" 
